@@ -1385,6 +1385,7 @@ button.shopify-payment-button__button--unbranded {
 
 .button--secondary:after {
   --border-opacity: var(--buttons-border-opacity);
+  border-radius: 1rem;  
 }
 
 .button:focus-visible,
