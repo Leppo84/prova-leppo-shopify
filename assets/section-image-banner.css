@@ -435,4 +435,5 @@
 
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
+  border-radius: 1rem;  
 }
