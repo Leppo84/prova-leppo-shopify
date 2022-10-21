@@ -206,7 +206,6 @@
     --color-button: 255, 255, 255;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
-    border-radius: 1rem;  
   }
 
   .banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt)
@@ -332,7 +331,6 @@
     --color-button: 255, 255, 255;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
-    border-radius: 1rem;  
   }
 
   .banner--desktop-transparent .content-container:after {
@@ -357,6 +355,7 @@
   z-index: 1;
   width: 100%;
   height: 100%;
+  border-radius: 1rem;  
 }
 
 .banner__box > * + .banner__text {
