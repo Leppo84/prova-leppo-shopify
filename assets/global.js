@@ -959,43 +959,14 @@ customElements.define('product-recommendations', ProductRecommendations);
 
 /* ------------------------ MOD ---------------------------*/
 
-.accordion {
-	 margin: 1rem 0;
-	 padding: 0;
-	 list-style: none;
-	 border-top: 1px solid #e5e5e5;
-}
- .accordion-item {
-	 border-bottom: 1px solid #e5e5e5;
-   list-style: none !important; 
-}
-/* Thumb */
- .accordion-thumb {
-	 margin: 0;
-	 padding: 0.8rem 0;
-	 cursor: pointer;
-	 font-weight: normal;
-}
- .accordion-thumb::before {
-	 content: '';
-	 display: inline-block;
-	 height: 7px;
-	 width: 7px;
-	 margin-right: 1rem;
-	 margin-left: 0.5rem;
-	 vertical-align: middle;
-	 border-right: 1px solid;
-	 border-bottom: 1px solid;
-	 transform: rotate(-45deg);
-	 transition: transform 0.2s ease-out;
-}
-/* Panel */
- .accordion-panel {
-	 margin: 0;
-	 padding-bottom: 0.8rem;
-	 display: none;
-}
-/* Active */
- .accordion-item.is-active .accordion-thumb::before {
-	 transform: rotate(45deg);
-}
+$(function() {
+	// (Optional) Active an item if it has the class "is-active"	
+	$(".accordion > .accordion-item.is-active").children(".accordion-panel").slideDown();
+	
+	$(".accordion > .accordion-item").click(function() {
+		// Cancel the siblings
+		$(this).siblings(".accordion-item").removeClass("is-active").children(".accordion-panel").slideUp();
+		// Toggle the item
+		$(this).toggleClass("is-active").children(".accordion-panel").slideToggle("ease-out");
+	});
+});
