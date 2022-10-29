@@ -3,7 +3,7 @@
     "f54ecf0d-aa31-45df-a07c-cb0b8141ede2": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% render \"custom-video\" %}",
+        "custom_liquid": "SONO UNDER CONSTRUCTION",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -27,7 +27,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "{{ product.metafields.descriptors.subtitle.value }}sfaf",
             "text_style": "subtitle"
           }
         },
