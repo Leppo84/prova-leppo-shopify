@@ -71,9 +71,9 @@
       </button>
       <template>
         {%- if section.settings.video_url.type == 'youtube' -%}
-          <video src="https://www.youtube.com/embed/{{ section.settings.video_url.id }}?enablejsapi=1" class="js-youtube" allow="autoplay; encrypted-media" allowfullscreen title=" {% if section.settings.autoplay %} {% if section.settings.show_controls %} controls {% endif %} {% if section.settings.loop_video %} loop {% endif %} autoplay muted {% endif %}{{ section.settings.description | escape }}"></iframe>
+          <iframe src="https://www.youtube.com/embed/{{ section.settings.video_url.id }}?enablejsapi=1" class="js-youtube" allow="autoplay; encrypted-media" allowfullscreen title="{{ section.settings.description | escape }}"></iframe>
         {%- else -%}
-          <video src="https://player.vimeo.com/video/{{ section.settings.video_url.id }}" class="js-vimeo" allow="autoplay; encrypted-media" allowfullscreen title="{{ section.settings.description | escape }}"></iframe>
+          <iframe src="https://player.vimeo.com/video/{{ section.settings.video_url.id }}" class="js-vimeo" allow="autoplay; encrypted-media" allowfullscreen title="{{ section.settings.description | escape }}"></iframe>
         {%- endif -%}
       </template>
     </deferred-media>
@@ -128,21 +128,6 @@
       "label": "t:sections.video.settings.video_url.label",
       "placeholder": "t:sections.video.settings.video_url.placeholder",
       "info": "t:sections.video.settings.video_url.info"
-    },
-    {
-      "type": "checkbox",
-      "id": "autoplay",
-      "label": "Autoplay if no sound"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_controls",
-      "label": "Show Controls"
-    },
-    {
-      "type": "checkbox",
-      "id": "loop_video",
-      "label": "Loop Video"
     },
     {
       "type": "text",
