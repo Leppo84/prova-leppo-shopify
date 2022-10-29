@@ -6,7 +6,7 @@
         "heading": "Video",
         "heading_size": "h1",
         "video_url": "https:\/\/youtu.be\/WsuSUIrn8g4",
-        "autoplay": true,
+        "autoplay": false,
         "show_controls": false,
         "loop_video": true,
         "description": "",
