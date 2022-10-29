@@ -1528,12 +1528,7 @@
           "name": "Disponibilità di ritiro"
         },
         "description": {
-          "name": "Descrizione",
-          "settings": {
-            "text_style_label": {
-              "content": "Seleziona lo stile di testo"
-            }
-          }
+          "name": "Descrizione"
         },
         "share": {
           "name": "Condividi",
