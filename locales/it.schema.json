@@ -1515,6 +1515,15 @@
             }
           }
         },
+        "custom_product_accordion":{
+          "name": "Voce 01",
+          "settings": {
+            "heading01": {
+              "info": "Includi un titolo che spieghi il contenuto.",
+              "label": "Titolo"
+            }
+          }
+        },
         "buy_buttons": {
           "name": "Buy button",
           "settings": {
