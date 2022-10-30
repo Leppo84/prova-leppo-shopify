@@ -803,8 +803,8 @@
           "name": "Description",
           "settings": {
             "heading": {
-              "info": "Includi un titolo che spieghi il contenuto.",
-              "label": "Titolo"
+              "info": "Enter a heading explaining the content.",
+              "label": "Title"
             }
           }
         },
