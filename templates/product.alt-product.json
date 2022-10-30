@@ -110,6 +110,8 @@
         "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
           "type": "custom_product_accordion",
           "settings": {
+            "heading01": "TEsto 01",
+            "content01": "<p>khvashkvash<\/p>",
             "heading": "Prova",
             "icon": "leaf",
             "content": "<p>Testo di di prova<\/p>",
