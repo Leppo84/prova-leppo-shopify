@@ -803,7 +803,7 @@
           "name": "Description",
           "settings": {
             "heading": {
-              "info": "Enter a heading explaining the content.",
+              "info": "Enter a heading representatve the content.",
               "label": "Title"
             }
           }
