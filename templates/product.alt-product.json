@@ -63,14 +63,6 @@
             "show_dynamic_checkout": true
           }
         },
-        "custom-product-accordion-0": {
-          "type": "custom_product_accordion",
-          "settings": {
-            "heading": "PROVA",
-            "icon": "leather",
-            "content": "<p>TESTO DI PROVA<\/p>"
-          }
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -114,6 +106,15 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
+          "type": "custom_product_accordion",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -129,7 +130,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "6e6b964d-409e-4c66-839a-c2a76c6ee84c"
       ],
       "settings": {
         "enable_sticky_info": true,
