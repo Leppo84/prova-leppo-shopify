@@ -19,6 +19,7 @@
         "description": {
           "type": "description",
           "settings": {
+            "heading": "Descrizione Prodotto"
           }
         },
         "vendor": {
