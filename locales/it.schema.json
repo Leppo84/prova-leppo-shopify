@@ -1528,7 +1528,13 @@
           "name": "Disponibilità di ritiro"
         },
         "description": {
-          "name": "Descrizione"
+          "name": "Descrizione",
+          "settings": {
+            "heading": {
+              "info": "Includi un titolo che spieghi il contenuto.",
+              "label": "Titolo"
+            }
+          }
         },
         "share": {
           "name": "Condividi",
