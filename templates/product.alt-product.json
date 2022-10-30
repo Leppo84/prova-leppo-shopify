@@ -47,8 +47,8 @@
           "settings": {
             "heading01": "Descrizione Prodotto",
             "content01": "<p>NON SERVE PIù<\/p>",
-            "heading": "Prova",
-            "icon": "leaf",
+            "heading02": "Collapsible row",
+            "icon01": "box",
             "content": "<p>Testo di di prova<\/p>",
             "page": "",
             "picker_type": "button"

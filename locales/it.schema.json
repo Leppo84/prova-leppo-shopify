@@ -1515,7 +1515,7 @@
             }
           }
         },
-        "custom_product_accordion":{
+        "custom_product_accordion": {
           "name": "Voce 01",
           "settings": {
             "heading01": {
