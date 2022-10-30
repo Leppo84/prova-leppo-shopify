@@ -18,6 +18,7 @@
       "blocks": {
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "heading": "Descrizione Prodotto"
           }
@@ -41,21 +42,21 @@
             "text_style": "subtitle"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
           "type": "custom_product_accordion",
           "settings": {
-            "heading01": "TEsto 01",
-            "content01": "<p>khvashkvash<\/p>",
+            "heading01": "Descrizione Prodotto",
+            "content01": "<p>NON SERVE PIù<\/p>",
             "heading": "Prova",
             "icon": "leaf",
             "content": "<p>Testo di di prova<\/p>",
             "page": "",
-            "picker_type": "dropdown"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
+            "picker_type": "button"
           }
         },
         "variant_picker": {
@@ -126,8 +127,8 @@
         "vendor",
         "title",
         "caption",
-        "6e6b964d-409e-4c66-839a-c2a76c6ee84c",
         "price",
+        "6e6b964d-409e-4c66-839a-c2a76c6ee84c",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
