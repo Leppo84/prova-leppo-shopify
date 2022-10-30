@@ -1681,7 +1681,13 @@
           "name": "Pickup availability"
         },
         "description": {
-          "name": "Description"
+          "name": "Description",
+          "settings": {
+            "heading": {
+              "info": "Enter a heading representatve the content.",
+              "label": "Title"
+            }
+          }
         },
         "share": {
           "name": "Share",
