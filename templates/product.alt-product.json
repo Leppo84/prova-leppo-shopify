@@ -63,6 +63,14 @@
             "show_dynamic_checkout": true
           }
         },
+        "custom-product-accordion-0": {
+          "type": "custom_product_accordion",
+          "settings": {
+            "heading": "PROVA",
+            "icon": "leather",
+            "content": "<p>TESTO DI PROVA<\/p>"
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
