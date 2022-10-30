@@ -110,9 +110,9 @@
         "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
           "type": "custom_product_accordion",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Prova",
+            "icon": "leaf",
+            "content": "<p>Testo di di prova<\/p>",
             "page": ""
           }
         }
