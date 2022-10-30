@@ -74,17 +74,15 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Bello figo<\/p>",
             "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
