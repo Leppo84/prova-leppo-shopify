@@ -41,6 +41,18 @@
             "text_style": "subtitle"
           }
         },
+        "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
+          "type": "custom_product_accordion",
+          "settings": {
+            "heading01": "TEsto 01",
+            "content01": "<p>khvashkvash<\/p>",
+            "heading": "Prova",
+            "icon": "leaf",
+            "content": "<p>Testo di di prova<\/p>",
+            "page": "",
+            "picker_type": "dropdown"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -48,6 +60,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -106,17 +119,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
-          "type": "custom_product_accordion",
-          "settings": {
-            "heading01": "TEsto 01",
-            "content01": "<p>khvashkvash<\/p>",
-            "heading": "Prova",
-            "icon": "leaf",
-            "content": "<p>Testo di di prova<\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -124,6 +126,7 @@
         "vendor",
         "title",
         "caption",
+        "6e6b964d-409e-4c66-839a-c2a76c6ee84c",
         "price",
         "variant_picker",
         "quantity_selector",
@@ -132,8 +135,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "6e6b964d-409e-4c66-839a-c2a76c6ee84c"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
