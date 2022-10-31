@@ -14,6 +14,7 @@
       "blocks": {
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "heading": "Descrizione Prodotto"
           }
