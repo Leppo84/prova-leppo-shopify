@@ -1663,6 +1663,15 @@
               },
               "options__44": {
                 "label": "Lavaggio"
+              },
+              "picker_type": {
+                "label": "Tipo",
+                "options__1": {
+                  "label": "Menu a discesa"
+                },
+                "options__2": {
+                  "label": "\"A pillole\""
+                }
               }
             }
           }
