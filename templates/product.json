@@ -27,21 +27,19 @@
           "settings": {
           }
         },
-        "73e7efa7-4ba9-42d7-8d23-a35a176effe7": {
-          "type": "custom_product_accordion",
-          "settings": {
-            "heading01": "Descrizione prodotto",
-            "heading02": "",
-            "heading03": "Collapsible content 03",
-            "icon01": "check_mark",
-            "content": "",
-            "page": "",
-            "picker_type": "button"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "d564cc38-47c1-4c08-a718-4598e7b6e881": {
+          "type": "custom_product_accordion",
+          "settings": {
+            "heading01": "t:sections.main-product.blocks.custom_product_accordion.settings.heading01.default",
+            "heading02": "t:sections.main-product.blocks.custom_product_accordion.settings.heading02.default",
+            "heading03": "t:sections.main-product.blocks.custom_product_accordion.settings.heading03.default",
+            "icon01": "check_mark",
+            "picker_type": "button"
           }
         },
         "buy_buttons": {
@@ -103,8 +101,8 @@
         "title",
         "caption",
         "price",
-        "73e7efa7-4ba9-42d7-8d23-a35a176effe7",
         "quantity_selector",
+        "d564cc38-47c1-4c08-a718-4598e7b6e881",
         "buy_buttons",
         "collapsible-row-0",
         "collapsible-row-1",
