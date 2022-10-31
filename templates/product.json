@@ -3,12 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {
-            "heading": "Descrizione Prodotto"
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -42,13 +36,6 @@
             "icon01": "check_mark",
             "content": "",
             "page": "",
-            "picker_type": "button"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
             "picker_type": "button"
           }
         },
@@ -105,19 +92,18 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "description",
         "vendor",
         "title",
         "caption",
         "price",
         "73e7efa7-4ba9-42d7-8d23-a35a176effe7",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "collapsible-row-0",
