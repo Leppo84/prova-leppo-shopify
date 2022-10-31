@@ -39,7 +39,7 @@
         "6e6b964d-409e-4c66-839a-c2a76c6ee84c": {
           "type": "custom_product_accordion",
           "settings": {
-            "heading01": "Descrizione Prodotto",
+            "heading01": "Descrizione prodotto",
             "heading02": "Tipo di prodotto",
             "heading03": "Opzioni disponibili",
             "icon01": "clipboard",
