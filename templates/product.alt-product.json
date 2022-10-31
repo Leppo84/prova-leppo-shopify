@@ -62,7 +62,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "<p>MAteriali<\/p>",
+            "content": "<p>Lorem ipsum dolor sit amet. Sit quaerat itaque hic similique adipisci eos consequatur voluptatem<\/p>",
             "page": "contact"
           }
         },
@@ -71,7 +71,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "<p>Bello figo, altra cosa<\/p>",
+            "content": "<p>Lorem ipsum dolor sit amet. Sit quaerat itaque hic similique adipisci eos consequatur voluptatem et rerum iure id soluta alias qui officia corrupti non minima molestias.<\/p>",
             "page": ""
           }
         },
