@@ -1529,6 +1529,141 @@
             "heading03": {
               "info": "Includi un titolo che spieghi il contenuto.",
               "label": "Titolo 03"
+            },
+            "icon01": {
+              "label": "Icona",
+              "options__1": {
+                "label": "Nessuna"
+              },
+              "options__2": {
+                "label": "Mela"
+              },
+              "options__3": {
+                "label": "Banana"
+              },
+              "options__4": {
+                "label": "Bottiglia"
+              },
+              "options__5": {
+                "label": "Casella"
+              },
+              "options__6": {
+                "label": "Carota"
+              },
+              "options__7": {
+                "label": "Fumetto chat"
+              },
+              "options__8": {
+                "label": "Segno di spunta"
+              },
+              "options__9": {
+                "label": "Blocco appunti"
+              },
+              "options__10": {
+                "label": "Latticini"
+              },
+              "options__11": {
+                "label": "Senza latticini"
+              },
+              "options__12": {
+                "label": "Asciugatrice"
+              },
+              "options__13": {
+                "label": "Occhio"
+              },
+              "options__14": {
+                "label": "Fuoco"
+              },
+              "options__15": {
+                "label": "Senza glutine"
+              },
+              "options__16": {
+                "label": "Cuore"
+              },
+              "options__17": {
+                "label": "Ferro"
+              },
+              "options__18": {
+                "label": "Foglia"
+              },
+              "options__19": {
+                "label": "Pelle"
+              },
+              "options__20": {
+                "label": "Fulmine"
+              },
+              "options__21": {
+                "label": "Rossetto"
+              },
+              "options__22": {
+                "label": "Lucchetto"
+              },
+              "options__23": {
+                "label": "Pin mappa"
+              },
+              "options__24": {
+                "label": "Senza frutta a guscio"
+              },
+              "options__25": {
+                "label": "Pantaloni"
+              },
+              "options__26": {
+                "label": "Impronta di zampa"
+              },
+              "options__27": {
+                "label": "Pepe"
+              },
+              "options__28": {
+                "label": "Profumi"
+              },
+              "options__29": {
+                "label": "Aereo"
+              },
+              "options__30": {
+                "label": "Piante"
+              },
+              "options__31": {
+                "label": "Cartellino prezzo"
+              },
+              "options__32": {
+                "label": "Punto interrogativo"
+              },
+              "options__33": {
+                "label": "Riciclo"
+              },
+              "options__34": {
+                "label": "Reso"
+              },
+              "options__35": {
+                "label": "Righello"
+              },
+              "options__36": {
+                "label": "Piatto da portata"
+              },
+              "options__37": {
+                "label": "Maglietta"
+              },
+              "options__38": {
+                "label": "Scarpa"
+              },
+              "options__39": {
+                "label": "Silhouette"
+              },
+              "options__40": {
+                "label": "Fiocco di neve"
+              },
+              "options__41": {
+                "label": "Stella"
+              },
+              "options__42": {
+                "label": "Cronometro"
+              },
+              "options__43": {
+                "label": "Camion"
+              },
+              "options__44": {
+                "label": "Lavaggio"
+              }
             }
           }
         },
