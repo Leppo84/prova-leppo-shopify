@@ -49,7 +49,7 @@
             "heading01": "Descrizione Prodotto",
             "heading02": "Tipo di prodotto",
             "heading03": "Opzioni di Prodotto",
-            "icon01": "box",
+            "icon01": "clipboard",
             "content": "<p>Testo di di prova<\/p>",
             "page": "",
             "picker_type": "button"
@@ -229,6 +229,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
