@@ -101,12 +101,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "05de589a-afa9-4340-8ce4-7dde396f1264": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
         }
       },
       "block_order": [
@@ -121,8 +115,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "05de589a-afa9-4340-8ce4-7dde396f1264"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
