@@ -1651,6 +1651,39 @@
         "price": {
           "name": "Price"
         },
+        "custom_product_accordion": {
+          "name": "Collapsible Menu",
+          "settings": {
+            "heading01": {
+              "info": "You can insert a custom title.",
+              "label": "Title 01",
+              "default": "Product Description"
+            },
+            "heading02": {
+              "info": "You can insert a custom title.",
+              "label": "Titolo 02",
+              "default": "Product Type"
+            },
+            "heading03": {
+              "info": "You can insert a custom title.",
+              "label": "Titolo 03",
+              "default": "Product Options"
+            },
+            "icon01": {
+              "label": "Icon"
+            },
+            "picker_type": {
+              "label": "Type",
+              "info": "Seleziona il tipo di visualizzazione delle opzioni",
+              "options__1": {
+                "label": "Dropdown"
+              },
+              "options__2": {
+                "label": "Pills"
+              }
+            }
+          }
+        },
         "quantity_selector": {
           "name": "Quantity selector"
         },
@@ -1681,13 +1714,7 @@
           "name": "Pickup availability"
         },
         "description": {
-          "name": "Description",
-          "settings": {
-            "heading": {
-              "info": "Enter a heading representatve the content.",
-              "label": "Title"
-            }
-          }
+          "name": "Description"
         },
         "share": {
           "name": "Share",
