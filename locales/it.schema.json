@@ -1667,6 +1667,7 @@
             },
             "picker_type": {
               "label": "Tipo",
+              "info": "Seleziona il tipo di visualizzazione delle opzioni",
               "options__1": {
                 "label": "Menu a discesa"
               },
