@@ -46,8 +46,8 @@
           "type": "custom_product_accordion",
           "settings": {
             "heading01": "Descrizione Prodotto",
-            "content01": "<p>NON SERVE PIù<\/p>",
-            "heading02": "Collapsible row",
+            "heading02": "Tipo di prodotto",
+            "heading03": "Opzioni di Prodotto",
             "icon01": "box",
             "content": "<p>Testo di di prova<\/p>",
             "page": "",
