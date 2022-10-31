@@ -1520,15 +1520,18 @@
           "settings": {
             "heading01": {
               "info": "Includi un titolo che spieghi il contenuto.",
-              "label": "Titolo 01"
+              "label": "Titolo 01",
+              "default": "Descrizione prodotto"
             },
             "heading02": {
               "info": "Includi un titolo che spieghi il contenuto.",
-              "label": "Titolo 02"
+              "label": "Titolo 02",
+              "default": "Tipo di prodotto"
             },
             "heading03": {
               "info": "Includi un titolo che spieghi il contenuto.",
-              "label": "Titolo 03"
+              "label": "Titolo 03",
+              "default": "Opzioni prodotto"
             },
             "icon01": {
               "label": "Icona",
