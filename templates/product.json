@@ -35,9 +35,9 @@
         "d564cc38-47c1-4c08-a718-4598e7b6e881": {
           "type": "custom_product_accordion",
           "settings": {
-            "heading01": "t:sections.main-product.blocks.custom_product_accordion.settings.heading01.default",
-            "heading02": "t:sections.main-product.blocks.custom_product_accordion.settings.heading02.default",
-            "heading03": "t:sections.main-product.blocks.custom_product_accordion.settings.heading03.default",
+            "heading01": "Descrizione prodotto",
+            "heading02": "Tipo di prodotto",
+            "heading03": "Opzioni prodotto",
             "icon01": "check_mark",
             "picker_type": "button"
           }
