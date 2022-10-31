@@ -43,8 +43,6 @@
             "heading02": "Tipo di prodotto",
             "heading03": "Opzioni disponibili",
             "icon01": "clipboard",
-            "content": "<p>Testo di di prova<\/p>",
-            "page": "",
             "picker_type": "button"
           }
         },
@@ -103,6 +101,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "05de589a-afa9-4340-8ce4-7dde396f1264": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
         }
       },
       "block_order": [
@@ -117,7 +121,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "05de589a-afa9-4340-8ce4-7dde396f1264"
       ],
       "settings": {
         "enable_sticky_info": true,
