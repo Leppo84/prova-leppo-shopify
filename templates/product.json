@@ -30,8 +30,8 @@
         "73e7efa7-4ba9-42d7-8d23-a35a176effe7": {
           "type": "custom_product_accordion",
           "settings": {
-            "heading01": "Collapsible content 01",
-            "heading02": "Collapsible content 02",
+            "heading01": "Descrizione prodotto",
+            "heading02": "",
             "heading03": "Collapsible content 03",
             "icon01": "check_mark",
             "content": "",
